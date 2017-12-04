@@ -24,7 +24,7 @@ img{
 	overflow:hidden;
 }
 
-#main-header{
+#header{
 	font-family: 'Spectral SC', serif;
 	position:relative;
 	background-color: white;
@@ -68,10 +68,10 @@ img{
 
 
 #main-footer{
-	margin:50px;
+	margin-top:100px;
 	left:0;
 	right:0;
-	bottom:0px;
+	bottom:5px;
 	text-align: center;
 	padding:10px;
 	background: white;

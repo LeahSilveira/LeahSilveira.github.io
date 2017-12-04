@@ -15,11 +15,11 @@ padding:0px;
 .container{
 	width:100%;
 	margin:auto;
-	position:center;
+	position:relative;
 	overflow:hidden;
 }
 
-#main-header{
+#header{
 	font-family: 'Spectral SC', serif;
 	position:relative;
 	background-color: white;
