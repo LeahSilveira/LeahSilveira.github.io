@@ -12,6 +12,11 @@ margin:0;
 padding:0px;
 }
 
+img{
+	max-width:100%;
+	height:auto;
+}
+
 .container{
 	width:90%;
 	margin:auto;
@@ -54,38 +59,22 @@ padding:0px;
 	border:1px solid black;
 }
 
-
-#showcase{
-	padding:50px;
-	text-align:center;
-	min-height:200px;
-	margin-bottom:30px;
-}
-
-#showcase h1{
+#motto h1{
 	font-family: 'Raleway', sans-serif;
 	font-size:40px;
-	text-align:top center;
+	text-align: center;
 	color: black;
 	padding:0px;
 	margin:30px;
 }
 
 #main{
-	float:relative;
-	width:70%;
-	padding: 30px;
-	border:5px solid gray;
-	margin-top:20px;
+	
 }
 
 
 #sidebar{
-	float:right;
-	background-color:white;
-	position:relative;
-	bottom: 150px;
-	right:65px;
+	
 }
 
 #main-footer{
