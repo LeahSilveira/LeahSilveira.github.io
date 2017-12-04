@@ -67,10 +67,11 @@ img{
 	margin:50px 30px;
 }
 
-#main1{
+#image{
 	margin:auto;
+	margin-top:20px;
 	float:center;
-	width:70%;
+	width:80%;
 }
 
 
