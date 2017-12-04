@@ -18,7 +18,7 @@ img{
 }
 
 .container{
-	width:90%;
+	width:100%;
 	margin:auto;
 	position:center;
 	overflow:hidden;
@@ -29,6 +29,7 @@ img{
 	position:relative;
 	background-color: white;
 	color: black;
+	margin-left:5%;
 	padding:20px 0px;
 	text-align: left;
 	font-size:20px;
@@ -67,9 +68,10 @@ img{
 
 
 #main-footer{
+	margin:50px;
 	left:0;
 	right:0;
-	bottom:5px;
+	bottom:0px;
 	text-align: center;
 	padding:10px;
 	background: white;
