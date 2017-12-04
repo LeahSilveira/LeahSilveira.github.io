@@ -13,9 +13,11 @@ padding:0px;
 }
 
 img{
-	max-width:100%;
+	max-width:80%;
 	height:auto;
+	margin:auto;
 	display:block;
+	padding:10px;
 }
 
 .container{
@@ -71,6 +73,18 @@ img{
 	min-height:200px;
 	margin-bottom:30px;
 	position:left;
+}
+
+#showcase h1{
+	text-align: center;
+	margin:auto;
+}
+
+#showcase-videos{
+	max-width:50%;
+	height:auto;
+	margin:auto;
+	position:center;
 }
 
 #main-footer{
